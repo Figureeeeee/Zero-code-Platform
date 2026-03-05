@@ -2,7 +2,7 @@ package com.yupi.zerocodeplatform.service;
 
 import com.mybatisflex.core.query.QueryWrapper;
 import com.mybatisflex.core.service.IService;
-import com.yupi.zerocodeplatform.model.dto.UserQueryRequest;
+import com.yupi.zerocodeplatform.model.dto.user.UserQueryRequest;
 import com.yupi.zerocodeplatform.model.entity.User;
 import com.yupi.zerocodeplatform.model.vo.LoginUserVO;
 import com.yupi.zerocodeplatform.model.vo.UserVO;

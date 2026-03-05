@@ -7,7 +7,7 @@ import com.mybatisflex.core.query.QueryWrapper;
 import com.mybatisflex.spring.service.impl.ServiceImpl;
 import com.yupi.zerocodeplatform.exception.BusinessException;
 import com.yupi.zerocodeplatform.exception.ErrorCode;
-import com.yupi.zerocodeplatform.model.dto.UserQueryRequest;
+import com.yupi.zerocodeplatform.model.dto.user.UserQueryRequest;
 import com.yupi.zerocodeplatform.model.entity.User;
 import com.yupi.zerocodeplatform.mapper.UserMapper;
 import com.yupi.zerocodeplatform.model.enums.UserRoleEnum;

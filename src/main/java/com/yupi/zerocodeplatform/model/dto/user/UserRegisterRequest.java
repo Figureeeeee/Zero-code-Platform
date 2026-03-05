@@ -1,4 +1,4 @@
-package com.yupi.zerocodeplatform.model.dto;
+package com.yupi.zerocodeplatform.model.dto.user;
 
 import lombok.Data;
 

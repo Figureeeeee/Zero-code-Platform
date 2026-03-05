@@ -10,7 +10,7 @@ import com.yupi.zerocodeplatform.constant.UserConstant;
 import com.yupi.zerocodeplatform.exception.BusinessException;
 import com.yupi.zerocodeplatform.exception.ErrorCode;
 import com.yupi.zerocodeplatform.exception.ThrowUtils;
-import com.yupi.zerocodeplatform.model.dto.*;
+import com.yupi.zerocodeplatform.model.dto.user.*;
 import com.yupi.zerocodeplatform.model.vo.LoginUserVO;
 import com.yupi.zerocodeplatform.model.vo.UserVO;
 import jakarta.annotation.Resource;
